@@ -1,4 +1,4 @@
-# Tech Challenge 3 - Fine-Tuning de LLM para Sumarização de Livros
+# Tech Challenge 3 - Fine-Tuning de LLM
 
 Este repositório contém o projeto desenvolvido para a Fase 3 do Tech Challenge, que consiste no fine-tuning de um modelo de linguagem (LLM) para a tarefa de gerar respostas a perguntas de usuários sobre livros.
 
