@@ -16,4 +16,3 @@ O objetivo deste projeto é especializar um modelo de linguagem pré-treinado pa
 
 O processo completo inclui desde a preparação e limpeza do dataset até o treinamento e a avaliação qualitativa do modelo final em comparação com sua versão base.
 
-## 📂 Estrutura do Repositório
